@@ -1,9 +1,10 @@
 # Bulma with gulp 4 and sass
-A starter pack for bulma with development server and gulp pipelines.
 [![Build Status](https://badgen.net/travis/mobihack/gulp4-bulma-sass)](https://travis-ci.org/mobihack/gulp4-bulma-sass)
 [![dependencies Status](https://badgen.net/david/dep/mobihack/gulp4-bulma-sass)](https://david-dm.org/mobihack/gulp4-bulma-sass)
 [![devDependencies Status](https://badgen.net/david/dev/mobihack/gulp4-bulma-sass)](https://david-dm.org/mobihack/gulp4-bulma-sass?type=dev)
 ![Dependabot](https://img.shields.io/badge/Dependabot-active-brightgreen.svg)
+
+A starter pack for bulma with development server and gulp pipelines.
 
 ## Features
 * `sass`
