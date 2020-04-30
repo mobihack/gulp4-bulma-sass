@@ -1,0 +1,14 @@
+git:
+  depth: 5
+
+language: node_js
+
+node_js:
+  - "10"
+
+cache:
+  directories:
+    - "$HOME/.npm"
+
+notifications:
+  email: false
