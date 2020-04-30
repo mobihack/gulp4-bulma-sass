@@ -1,0 +1,21 @@
+{
+  "name": "gulp-bulma",
+  "version": "1.0.0",
+  "description": "Gulp with Bulma Sass and BrowserSync",
+  "main": "index.js",
+  "scripts": {
+    "dev": "gulp serve",
+    "build": "gulp build"
+  },
+  "author": "dzinemon",
+  "license": "ISC",
+  "dependencies": {
+    "bulma": "^0.8.2",
+    "bulma-start": "0.0.4"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0"
+  }
+}
